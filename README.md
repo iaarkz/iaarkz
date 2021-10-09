@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou a Larissa Pinheiro</h1>
 <h3 align="center">Nordestina, bacharel em psicologia, manjadora de Photoshop e After Effects, que decidiu ser front-end dev e as vezes faz streams de joguinhos.👽🏳️‍🌈</h3>
 
-- 🌱 Estou aprendendo **CSS, HTML, JavaScript, React e NodeJS**
+- 📖 Estou aprendendo **CSS, HTML, JavaScript, React e NodeJS**
 
 - 💬 Me pergunte sobre **Jogos, Photoshop e Música**
 
