@@ -21,8 +21,9 @@
 
 <h2 align="center">Meus status no GitHub:</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaarkz&show_icons=true&locale=en&layout=compact" alt="iaarkz" /> <a align="left"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaarkz&show_icons=true&theme=github_dark) </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaarkz&show_icons=true&locale=en&layout=compact" alt="iaarkz" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaarkz&show_icons=true&theme=github_dark)
 
 <h2 align="center">Minhas redes socias:</h2>
 <p align="center"><a href="https://github.com/iaarkz"><img src="https://img.shields.io/github/followers/iaarkz?style=social"></a>
