@@ -20,10 +20,13 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <h2 align="center">Meus status no GitHub:</h2>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaarkz&show_icons=true&locale=en&layout=compact" alt="iaarkz" />
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaarkz&show_icons=true&theme=github_dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaarkz&show_icons=true&locale=en&layout=compact" alt="iaarkz" />
+  
+</div>
 
 <h2 align="center">Minhas redes socias:</h2>
 <p align="center"><a href="https://github.com/iaarkz"><img src="https://img.shields.io/github/followers/iaarkz?style=social"></a>
