@@ -24,10 +24,10 @@
 
 
 <h2 align="center">Minhas redes socias:</h2>
-<p align="center"><a href="https://github.com/iaarkz"><img src="https://img.shields.io/github/followers/iaarkz?style=social"></a>
+<p align="center"><a href="https://github.com/iaarkz" target="_blank"><img src="https://img.shields.io/github/followers/iaarkz?style=social"></a>
 <a href="mailto:larissavspinheiro"><img src="https://img.shields.io/badge/Email-Contato-white?style=social&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/larissavspinheiro/"><img src="https://img.shields.io/badge/Linkedin-larissavspinheiro-blue?style=social&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/larissavspinheiro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-larissavspinheiro-blue?style=social&logo=linkedin"></a>
  </br>
-<a href="https://twitter.com/_aarkz"><img src="https://img.shields.io/twitter/follow/_aarkz?style=social"></a>
-<a href="https://www.instagram.com/aarkz/"><img src="https://img.shields.io/badge/Follow-@aarkz-lightgray?style=social&logo=instagram"></a>
+<a href="https://twitter.com/_aarkz" target="_blank"><img src="https://img.shields.io/twitter/follow/_aarkz?style=social"></a>
+<a href="https://www.instagram.com/aarkz/" target="_blank"><img src="https://img.shields.io/badge/Follow-@aarkz-lightgray?style=social&logo=instagram"></a>
 </p>
