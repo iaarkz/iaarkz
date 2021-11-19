@@ -1,4 +1,8 @@
-<h1 align="center">Oi 👋, eu sou a Larissa Pinheiro</h1>
+<p align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2331F7B6&lines=Ol%C3%A1%2C+me+chamo+Larissa+Pinheiro;Bem-vindo+ao+meu+perfil+no+GitHub!;Hello%2C+I'm+Larissa+Pinheiro;Welcome+to+my+GitHub+profile!" >
+ </a>
+ 
 <p align="left">Nordestina, bacharel em psicologia, manjadora de Photoshop e After Effects, que decidiu ser front-end dev e as vezes faz streams de joguinhos.👽🏳️‍🌈</p>
 
 - 📖 Estou aprendendo: **CSS, SASS, HTML, JavaScript, React e NodeJS**
@@ -6,6 +10,12 @@
 - 💬 Me pergunte sobre: **Jogos, Photoshop e Música**
 
 - 📚 Estou lendo: **Clean Code: A Handbook of Agile Software Craftsmanship e Eloquent JavaScript: A Modern Introduction to Programming**
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaarkz&layout=compact" />
+</a>
+</p>
 
 <h2 align="center">Linguagens e ferramentas:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -31,3 +41,4 @@
 <a href="https://twitter.com/_aarkz" target="_blank"><img src="https://img.shields.io/twitter/follow/_aarkz?style=social"></a>
 <a href="https://www.instagram.com/aarkz/" target="_blank"><img src="https://img.shields.io/badge/Follow-@aarkz-lightgray?style=social&logo=instagram"></a>
 </p>
+
