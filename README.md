@@ -5,11 +5,11 @@
  
 <p align="left">Nordestina, BA Psychology, can work around with Photoshop and After Effects, who started to be a frontend dev and loves video games.👽🏳️‍🌈</p>
 
-- 📖 I'm learning: **CSS, SASS, HTML, JavaScript, React and NodeJS**
+- 🖥️ I'm learning: **CSS, SASS, HTML, JavaScript, React and NodeJS**
 
 - 💬 Ask me about: **Games, Photoshop and Music**
 
-- 📚 Reading: **Clean Code: A Handbook of Agile Software Craftsmanship and Eloquent JavaScript: A Modern Introduction to Programming**
+- 📖 Reading: **Clean Code: A Handbook of Agile Software Craftsmanship and Eloquent JavaScript: A Modern Introduction to Programming**
 
 <h2 align="center">Languages, apps and libraries:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -39,5 +39,6 @@
  </br>
 <a href="https://twitter.com/_aarkz" target="_blank"><img src="https://img.shields.io/twitter/follow/_aarkz?style=social"></a>
 <a href="https://www.instagram.com/aarkz/" target="_blank"><img src="https://img.shields.io/badge/Follow-@aarkz-lightgray?style=social&logo=instagram"></a>
+<a href="https://aarkz.notion.site/aarkz-Wiki-5e0e247bca4d46c18277a1280f0773d9" target="_blank"><img src="https://img.shields.io/badge/Notion-My_Wiki-lightgray?style=social&logo=notion"></a>
 </p>
 
