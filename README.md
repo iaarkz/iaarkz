@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2331F7B6&lines=Ol%C3%A1%2C+me+chamo+Larissa+Pinheiro;Bem-vindo+ao+meu+perfil+no+GitHub!;Hello%2C+I'm+Larissa+Pinheiro;Welcome+to+my+GitHub+profile!" >
  </a>
  
-<p align="left">Nordestina, BA Psychology, can work around with Photoshop and After Effects, who started to be a frontend dev and loves video games.👽🏳️‍🌈</p>
+<p align="left">Nordestina, BA Psychology, can work with Photoshop and After Effects, who started learning frontend dev and loves video games.👽🏳️‍🌈</p>
 
 - 🖥️ I'm learning: **CSS, SASS, HTML, JavaScript, ReactJS, MERN and NextJS**
 
