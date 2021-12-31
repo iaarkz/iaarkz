@@ -5,7 +5,7 @@
  
 <p align="left">Nordestina, BA Psychology, can work around with Photoshop and After Effects, who started to be a frontend dev and loves video games.👽🏳️‍🌈</p>
 
-- 🖥️ I'm learning: **CSS, SASS, HTML, JavaScript, React and NodeJS**
+- 🖥️ I'm learning: **CSS, SASS, HTML, JavaScript, ReactJS, MERN and NextJS**
 
 - 💬 Ask me about: **Games, Photoshop and Music**
 
