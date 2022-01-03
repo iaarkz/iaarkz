@@ -29,7 +29,7 @@ const = aarkz = {
 </div>
 
 <details><summary style="font-size:20px">More About Me</summary>
-<p align="left">  I'm a bachelor in psychology changing career to Front-End development, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
+<p align="left">  I'm a bachelor in psychology changing career to Front-End development, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can have a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
 </details>
 
 <details><summary style="font-size:20px">Languages and Tools</summary>
