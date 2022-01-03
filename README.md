@@ -18,7 +18,7 @@ const = aarkz = {
       javaScript: ["Node.JS", "Express"],
     },
   },
-  currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS"],
+  currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS", "Typescript"],
   currentImproving: ["HTML", "CSS", "SASS", "JavaScript"],
   currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship",
                   "Eloquent JavaScript: A Modern Introduction to Programming"],
