@@ -67,7 +67,8 @@ const = aarkz = {
 
 # My Weekly Activity and Most Used Languages:
 
-<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"> <a href="https://github.com/anuraghazra/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaarkz&layout=compact" />
+<p>&#129147; Weekly Stats &#129147;</p><a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="Weekly"></a> <br><br>
+ <p>&#129147; Github Repositories Stats &#129147;</p> <a href="https://github.com/anuraghazra/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaarkz&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="GitHub Repositories"/>
 </a>
 
 </div>
