@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/bRtHyCb/github-header.jpg">
+![Header](github-header.jpg)
 &nbsp;
 
 # A little Bit About Me:
@@ -18,7 +18,7 @@ const = aarkz = {
       javaScript: ["Node.JS", "Express"],
     },
   },
-  currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS", "Typescript"],
+  currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS", "Typescript", "Python"],
   currentImproving: ["HTML", "CSS", "SASS", "JavaScript"],
   currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship",
                   "Eloquent JavaScript: A Modern Introduction to Programming"],
