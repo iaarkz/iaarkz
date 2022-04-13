@@ -8,20 +8,19 @@
 <div align="left">
 
 ```
-const = aarkz = {
+const aarkz = {
   name: "Larissa Pinheiro",
-  howToReachMe: "larissavspinheiro@gmail.com",
-  code: ["HTML", "CSS", "SASS", "JavaScript"],
+  major: "BA Psychology"
   askMeAbout: ["Games", "Photoshop", "Music"],
   technologies: {
-    backEnd: {
-      javaScript: ["Node.JS", "Express"],
-    },
+    frontEnd: ["HTML", "CSS", "SASS", "JavaScript"],
+    backEnd: ["Node.JS", "Express"],
   },
   currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS", "Typescript", "Python"],
   currentImproving: ["HTML", "CSS", "SASS", "JavaScript"],
-  currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship",
-                  "Eloquent JavaScript: A Modern Introduction to Programming"],
+  currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship by Robert Cecil Martin",
+                  "Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke",
+                  "Learning JavaScript Data Structures and Algorithms by Loiane Grooner"],
 }
 ```
 &nbsp;
@@ -50,6 +49,7 @@ const = aarkz = {
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="after-effects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/> </a>
 
 </p>
 
