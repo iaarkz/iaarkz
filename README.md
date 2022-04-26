@@ -10,7 +10,7 @@
 ```
 const aarkz = {
   name: "Larissa Pinheiro",
-  major: "BA Psychology"
+  major: "BSc Psychology"
   askMeAbout: ["Games", "Photoshop", "Music"],
   technologies: {
     frontEnd: ["HTML", "CSS", "SASS", "JavaScript"],
