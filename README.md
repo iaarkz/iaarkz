@@ -92,4 +92,6 @@ const aarkz = {
 
 
 ###
-<img href="https://raw.githubusercontent.com/iaarkz/iaarkz/blob/output/snake.svg" alt="Snake animation" />
+<div align="center" >
+<img src="https://github.com/iaarkz/iaarkz/blob/main/snake.svg" />
+</div>
