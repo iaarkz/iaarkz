@@ -35,21 +35,28 @@ const aarkz = {
 
 ### Languages
 
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a> 
-<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="26" width="42" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="26" width="42" alt="svelte logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" width="42" alt="git logo"  />
+  </div>
 
 ### Tools
 
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="after-effects" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/> </a>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="26" width="42" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="26" width="42" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="26" width="42" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="26" width="42" alt="premierepro logo"  />
+</div>
 
 </p>
 
@@ -68,7 +75,21 @@ const aarkz = {
 # My Weekly Activity and Most Used Languages:
 
 <p>&#129147; Weekly Stats &#129147;</p><a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="Weekly"></a> <br><br>
- <p>&#129147; Github Repositories Stats &#129147;</p> <a href="https://github.com/anuraghazra/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaarkz&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="GitHub Repositories"/>
-</a>
+ <p>&#129147; Github Repositories Stats &#129147;</p> 
 
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="languages graph"  />
+</div>
+
+<p align="center">&#129147; Medium Posts &#129147;</p> 
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=aarkz&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+
+###
+<img href="https://raw.githubusercontent.com/iaarkz/iaarkz/blob/output/snake.svg" alt="Snake animation" />
