@@ -27,11 +27,11 @@ const aarkz = {
 
 </div>
 
-<details><summary style="font-size:20px">More About Me</summary>
+## More About Me
 <p align="left">  I'm a bachelor in psychology changing career to Front-End development, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can have a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
-</details>
 
-<details><summary style="font-size:20px">Languages and Tools</summary>
+
+## Languages and Tools
 
 ### Languages
 
@@ -72,7 +72,7 @@ const aarkz = {
 
 &nbsp;
 
-# My Weekly Activity and Most Used Languages:
+## My Weekly Activity and Most Used Languages:
 
 <p>&#129147; Weekly Stats &#129147;</p><a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="Weekly"></a> <br><br>
  <p>&#129147; Github Repositories Stats &#129147;</p> 
