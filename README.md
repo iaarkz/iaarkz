@@ -14,10 +14,11 @@ const aarkz = {
   askMeAbout: ["Games", "Photoshop", "Music"],
   technologies: {
     frontEnd: ["HTML", "CSS", "SASS", "JavaScript"],
-    backEnd: ["Node.JS", "Express"],
+    backEnd: ["Node.JS", "Go"],
+    mobile: ["Swift"],
   },
-  currentLearning: ["ReactJS", "MongoDB", "Express", "Node.JS", "Typescript", "Python"],
-  currentImproving: ["HTML", "CSS", "SASS", "JavaScript"],
+  currentLearning: ["Typescript", "Python"],
+  currentImproving: ["Swift, Go"],
   currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship by Robert Cecil Martin",
                   "Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke",
                   "Learning JavaScript Data Structures and Algorithms by Loiane Grooner"],
@@ -28,7 +29,7 @@ const aarkz = {
 </div>
 
 ## More About Me
-<p align="left">  I'm a bachelor in psychology changing career to Front-End development, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can have a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
+<p align="left">I'm a bachelor in psychology and a mobile developer focusing on Swift, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can have a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
 
 
 ## Languages and Tools
@@ -36,26 +37,28 @@ const aarkz = {
 ### Languages
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="26" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="26" width="42" alt="svelte logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="26" width="42" alt="swift logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="26" width="42" alt="golang logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" width="42" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" width="42" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="26" width="42" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" width="42" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" width="42" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" width="42" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="26" width="42" alt="svelte logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" width="42" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" width="42" alt="bootstrap logo" />
   </div>
-
+  
 ### Tools
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="26" width="42" alt="aftereffects logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="26" width="42" alt="illustrator logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="26" width="42" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="26" width="42" alt="premierepro logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" width="42" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="26" width="42" alt="aftereffects logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="26" width="42" alt="illustrator logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="26" width="42" alt="photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="26" width="42" alt="premierepro logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" width="42" alt="git logo" />
 </div>
 
 </p>
