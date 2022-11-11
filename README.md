@@ -17,11 +17,11 @@ const aarkz = {
     backEnd: ["Node.JS", "Go"],
     mobile: ["Swift"],
   },
-  currentLearning: ["Typescript", "Python"],
-  currentImproving: ["Swift, Go"],
-  currentReading: ["Clean Code: A Handbook of Agile Software Craftsmanship by Robert Cecil Martin",
-                  "Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke",
-                  "Learning JavaScript Data Structures and Algorithms by Loiane Grooner"],
+  currentLearning:  ["Swift, Go"],
+  currentReading:   ["Design Patterns in Swift": "Vamshi Krishna",
+                    "iOS Unit Testing by Example": "Jon Reid",
+                    "Combine Asynchronous Programming with Swift": "RayWenderLich"
+                    ],
 }
 ```
 &nbsp;
