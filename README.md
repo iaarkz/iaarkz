@@ -82,7 +82,7 @@ const aarkz = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="languages graph"  />
 </div>
 
 <p align="center">&#129147; Medium Posts &#129147;</p> 
