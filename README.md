@@ -14,10 +14,10 @@ const aarkz = {
   askMeAbout: ["Games", "Photoshop", "Music"],
   technologies: {
     frontEnd: ["HTML", "CSS", "SASS", "JavaScript"],
-    backEnd: ["Node.JS", "Go"],
+    backEnd: ["Node.JS", "Go", "Python"],
     mobile: ["Swift"],
   },
-  currentLearning:  ["Swift, Go"],
+  currentLearning:  ["Swift", "Go", "Python"],
   currentReading:   ["Design Patterns in Swift": "Vamshi Krishna",
                     "iOS Unit Testing by Example": "Jon Reid",
                     "Combine Asynchronous Programming with Swift": "RayWenderLich"
@@ -38,6 +38,7 @@ const aarkz = {
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="26" width="42" alt="swift logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="26" width="42" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="26" width="42" alt="golang logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" width="42" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" width="42" alt="css3 logo" />
@@ -75,8 +76,8 @@ const aarkz = {
 
 ## My Weekly Activity and Most Used Languages:
 
-<p>&#129147; Weekly Stats &#129147;</p><a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="Weekly"></a> <br><br>
- <p>&#129147; Github Repositories Stats &#129147;</p> 
+<p>⬇︎ Weekly Stats ⬇︎</p><a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats"> <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aarkz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6" alt="Weekly"></a> <br><br>
+ <p>⬇︎ Github Repositories Stats ⬇︎</p> 
 
 </div>
 
@@ -85,7 +86,7 @@ const aarkz = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="languages graph"  />
 </div>
 
-<p align="center">&#129147; Medium Posts &#129147;</p> 
+<p align="center">⬇︎ Medium Posts ⬇︎</p> 
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=aarkz&theme=dark" alt="Layout with last medium posts"  />
@@ -93,6 +94,9 @@ const aarkz = {
 
 
 ###
+
 <div align="center" >
-<img src="https://github.com/iaarkz/iaarkz/blob/main/snake.svg" />
+<p>⬇︎ My Commits ⬇︎</p>
+
+![snake gif](https://github.com/iaarkz/iaarkz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 </div>
