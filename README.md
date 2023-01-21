@@ -80,12 +80,22 @@ const aarkz = {
  <p>⬇︎ Github Repositories Stats ⬇︎</p> 
 
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6&username=iaarkz" height="150" alt="languages graph"  />
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=aarkz&show_icons=true&theme=hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaarkz&layout=compact&theme=hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=FAF9F6)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-
 <p align="center">⬇︎ Medium Posts ⬇︎</p> 
 
 <div align="center">
