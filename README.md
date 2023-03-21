@@ -13,14 +13,13 @@ const aarkz = {
   major: "BSc Psychology"
   askMeAbout: ["Games", "Photoshop", "Music"],
   technologies: {
-    frontEnd: ["HTML", "CSS", "SASS", "JavaScript"],
-    backEnd: ["Node.JS", "Go", "Python"],
+    frontEnd: ["HTML", "CSS", "SASS", "JavaScript", "ReactJS"],
+    backEnd: ["Node.JS", "Python"],
     mobile: ["Swift"],
   },
-  currentLearning:  ["Swift", "Go", "Python"],
-  currentReading:   ["Design Patterns in Swift": "Vamshi Krishna",
-                    "iOS Unit Testing by Example": "Jon Reid",
-                    "Combine Asynchronous Programming with Swift": "RayWenderLich"
+  currentLearning:  ["Swift", "NodeJS", "Unit Tests"],
+  currentReading:   ["Frontend Architecture for Design Systems": "Micah Godbolt",
+                    "The Practical Test Pyramid": "Ham Vocke"
                     ],
 }
 ```
@@ -29,7 +28,7 @@ const aarkz = {
 </div>
 
 ## More About Me
-<p align="left">I'm a bachelor in psychology and a mobile developer focusing on Swift, as it was a passion for me when I was younger. I want to use what I've learned while I was Psychology major to make the web and apps more inclusive, accessible and for everyone, so we can have a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and I can work with Photoshop, Figma, Premiere and After Effects.</p>
+<p align="left">I'm a bachelor's in psychology and am a mobile developer focusing on Swift, as it was a passion for me when I was younger. I want to use what I've learned while I was a Psychology major to make the web and mobile apps more inclusive, and accessible for everyone so that we can make a significant and positive impact on people's lives through technology. I also learned a bit of UX Design and can work with Photoshop, Figma, Premiere, and After Effects.</p>
 
 
 ## Languages and Tools
@@ -39,7 +38,7 @@ const aarkz = {
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="26" width="42" alt="swift logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="26" width="42" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="26" width="42" alt="golang logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="26" width="42" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" width="42" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" width="42" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="26" width="42" alt="sass logo" />
